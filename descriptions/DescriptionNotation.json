@@ -1,0 +1,20 @@
+{
+  "Name": "Unique name of the pattern. ",
+  "Intent": "Description of the goal behind the pattern. ",
+  "Other Names": ["Other Name 1", "Other Name 2", "Other Name 3", "..."],
+  "Motivation": "Problem and a context in which this pattern can be used. ",
+  "Applicability": "Situations in which pattern is usable. ",
+  "Structure": "Link to the graphical representation of the pattern. ",
+  "Participants": {
+    "Object 1": "Role of Object 1",
+    "Object 2": "Role of Object 1",
+    "Object 3": "Role of Object 1",
+    "..."     : "..."
+  },
+  "Collaboration": "A description of how classes and objects used in the pattern interact with each other. ",
+  "Consequences": "A description of the results, side effects, and trade offs caused by using the pattern. ",
+  "Implementation": "A description of an implementation of the pattern. ",
+  "Source Code": "An illustration of how the pattern can be used in a programming language. ",
+  "Known Uses": ["Use 1", "Use 2", "Use 3", "..."],
+  "Related Patterns": ["Related Pattern 1", "Related Pattern 2", "Related Pattern 3", "..."]
+}
