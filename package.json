@@ -1,0 +1,19 @@
+{
+  "name": "js-design-patterns",
+  "version": "1.0.0",
+  "description": "JavaScript Design Patterns",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enaqx/js-design-patterns.git"
+  },
+  "bugs": {
+    "url": "https://github.com/enaqx/js-design-patterns/issues"
+  },
+  "homepage": "https://github.com/enaqx/js-design-patterns#readme",
+  "author": "Nick Raienko <enaqxx@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.3.2",
+    "when": "^3.7.3"
+  }
+}

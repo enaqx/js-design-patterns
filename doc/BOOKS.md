@@ -1,0 +1,5 @@
+* [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, 1994](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+* [Enterprise Integration Patterns by Gregor Hohpe, Bobby Woolf, 2003](http://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
+* [Pro JavaScript Design Patterns by Dustin Diaz, Ross Harmes, 2007](http://www.amazon.com/Pro-JavaScript-Design-Patterns-Object-Oriented/dp/159059908X)
+* [Learning JavaScript Design Patterns by Addy Osmani, 2012](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Mastering JavaScript Design Patterns by by Simon Timms, 2014](http://www.amazon.com/Mastering-JavaScript-Design-Patterns-Simon/dp/1783987987)
