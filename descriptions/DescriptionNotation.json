@@ -1,7 +1,8 @@
 {
   "Name": "Unique name of the pattern. ",
+  "Aliases": ["Other Name 1", "Other Name 2", "Other Name 3", "..."],
+  "Classification": "Design Patterns Classification",
   "Intent": "Description of the goal behind the pattern. ",
-  "Other Names": ["Other Name 1", "Other Name 2", "Other Name 3", "..."],
   "Motivation": "Problem and a context in which this pattern can be used. ",
   "Applicability": "Situations in which pattern is usable. ",
   "Structure": "Link to the graphical representation of the pattern. ",
